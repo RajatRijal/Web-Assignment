@@ -1,0 +1,253 @@
+.Contact-form
+{
+	display: flex;
+}
+
+body {
+    background-color: lavender !important;
+}
+.contactl p
+{
+	padding-bottom: 13px;
+	font-size: 15px;
+	font-weight: bolder;
+
+}
+
+.contactr p
+{
+	padding-bottom: 13px;
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
+
+
+
+.contactl
+{
+	flex-basis: 60%;
+	padding: 20px 30px;
+	background-color: #D8D8D8;
+}
+
+.contactr
+{
+	flex-basis: 40%;
+	padding: 20px 30px;
+	background-color: blue;
+}
+
+.forms h1
+{
+	margin-bottom: 30px;
+	text-align: center;
+	padding-top: 20px 0px;
+	
+}
+
+.forms
+{
+	
+position: sticky;
+	top: 50px;
+}
+
+.lone
+{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+input
+{
+	background-color: #D8D8D8;
+	width: 100%;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;
+}
+
+textarea
+{
+	outline: none;
+	width: 100%;
+	padding: 10px;
+	border: none;
+
+}
+
+label
+{
+	margin-bottom: 6px;
+	display: block;
+	color: blue;
+}
+
+span
+{
+	color: blue;
+	margin-bottom: 6px;
+	display: block;
+}
+
+button
+{
+	border: none;
+	outline: none;
+	width: 90px;
+	height: 35px;
+	background-color: white;
+	color: black;
+	margin-top: 20px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px solid black;
+}
+
+
+.contactr 
+{
+	background-color: rgba(0,0,0,0.2);
+}
+
+.logos
+{
+	line-height: 50px;
+	color: white;
+}
+
+.logos a
+{
+	text-decoration: none;
+	color: white;
+
+}
+
+.logos .fa 
+{
+	margin-right: 9px;
+	font-size: 26px;
+}
+
+
+
+.logo a img{
+	float: left;
+	width: 100px;
+	height: 80px;
+	border-radius: 50%;
+	clear: both;
+}
+
+.logo
+{
+	background-color: red;
+}
+
+.icon{
+	float: right;
+	clear: both;
+}
+
+
+social-media
+{
+	width: 400px;
+	float: left;
+	margin: 5px;
+}
+
+.social-media  ul
+{
+	list-style: none;
+}
+
+.social-media  ul li
+{
+	display: inline-block;
+
+}
+
+.social-media  ul li a
+{
+	padding:  0px 20px 0px 0px;
+	font-size: 30px;
+
+}
+
+i.fa.fa-youtube
+ {
+    color: brown;
+}
+
+i.fa.fa-youtube:hover
+ {
+    color: #dadada;
+    transition: 2s;
+    
+}
+
+i.fa.fa-facebook:hover
+ {
+    color: #dadada;
+    transition: 2s;
+    
+}
+
+i.fa.fa-twitter:hover
+ {
+    color: #dadada;
+    transition: 2s;
+    
+}
+
+i.fa.fa-linkedin:hover
+ {
+    color: #dadada;
+    transition: 2s;
+    
+}
+
+i.fa.fa-instragram:hover
+ {
+ 	color:  #dadada;
+    transition: 2s;
+
+    
+}
+
+body
+{
+	background: #5DADE2;
+}
+
+.navigation ul 
+{
+	list-style: none;
+	text-align: end;
+
+}
+
+.navigation ul li 
+{
+	display: inline-block;
+}
+
+.navigation ul li a{
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Spline Sans', sans-serif;
+	padding: 10px 20px 10px 10px;
+
+
+}
+
+
+
+.map {
+	margin: 10px 0px 20px 0px;
+}
+
